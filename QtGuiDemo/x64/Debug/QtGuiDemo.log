@@ -1,9 +1,0 @@
-﻿  Uic'ing QtGuiDemo.ui...
-  Rcc'ing QtGuiDemo.qrc...
-  Moc'ing QtGuiDemo.h...
-   RCC: Warning: No resources in 'D:\vs\vs_project\QtGuiDemo-master\QtGuiDemo\QtGuiDemo.qrc'.
-  main.cpp
-  QtGuiDemo.cpp
-  qrc_QtGuiDemo.cpp
-  moc_QtGuiDemo.cpp
-  QtGuiDemo.vcxproj -> D:\vs\vs_project\QtGuiDemo-master\x64\Debug\QtGuiDemo.exe
