@@ -11,11 +11,14 @@
 ## 使用步骤
 - clone项目及软件安装（请参照博客：[Yolov4-QtGUI项目详解](https://blog.csdn.net/weixin_42448226/article/details/105752224) ）
   - download code：git clone https://github.com/AlexeyAB/darknet.git
+  - 下载预训练模型：yolov4.weight
   - download code：git clone https://github.com/scutlrr/Yolov4-QtGUI.git
   - 安装QT，且在VS上配置QT
 - 编译
   - 用VS 打开项目，进入属性管理器，选择**release**模式下的配置文件opencv3.props修改自己opencv的include lib路径
-- 修改QtGuiDemo.h文件中配置文件（names、cfg）、权重文件（yolov4.weight）路径
+- 修改QtGuiDemo.h文件
+  - 修改配置文件（names、cfg）路径、权重文件（yolov4.weight）路径
+- 将dll文件放入x６４＼ｒｅｌｅａｓｅ文件夹　　下载链接：[动态链接库](https://pan.baidu.com/s/1f1dcjKtNjvJGhGDZrOJ-Dg%C2%A0)　提取码：5kbe
 
 - 接入图像处理算法
   - 接入图像处理算法可以通过处理this->inputImage输出结果显示在this->imageLabel控件上
@@ -27,7 +30,7 @@
 
 - 测试图片：
 
-![打开图片](assets/测试图片.png)
+![单张图片](assets/测试图片.png)
 
 - 测试摄像头：
 
