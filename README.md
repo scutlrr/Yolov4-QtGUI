@@ -1,5 +1,5 @@
-# QtGuiDemo
-- QtGuiDemo是用QT和OpenCV开发一个界面的demo,可简便选择本地图片、摄像头、视频文件来展示图像算法(深度学习、传统)处理结果
+# yolov4_QtGUI
+- 本项目是用QT和OpenCV开发一个界面的demo,可简便选择本地图片、摄像头、视频文件来展示图像算法(深度学习、传统)处理结果
 ## 开发软件环境
 - Windows 10
 - QT 5.9.6
