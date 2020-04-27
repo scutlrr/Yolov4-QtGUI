@@ -8,6 +8,16 @@
 - Visual Studio 2017
 - Cuda 10.1
 - Cudnn >= 7.0
+## 快速使用demo
+
+下载权重文件：[yolov4_weight](https://pan.baidu.com/s/16js1bfzKFiQ6mJ7NiP_DtA)  提取码：4mic
+
+- CPU Demo：[yolov4_cpu](https://pan.baidu.com/s/1uacNNl6ZL2M3s0GVfkTdVA)    提取码：l3eh
+- GPU Demo：[yolov4_gpu]()
+
+首先将下载的权重文件放置在  **./model**  目录下
+
+然后双击  **./Release **目录下的 **QtGuiDemo.exe**  即可
 ## 使用步骤
 - clone项目及软件安装（请参照博客：[Yolov4-QtGUI项目详解](https://blog.csdn.net/weixin_42448226/article/details/105752224) ）
   - download code：git clone https://github.com/AlexeyAB/darknet.git
