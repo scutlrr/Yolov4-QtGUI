@@ -18,7 +18,7 @@
 
 首先将下载的权重文件放置在  **./model**  目录下
 
-然后双击  **./Release **目录下的 **QtGuiDemo.exe**  即可
+然后双击 **./Release**　目录下的 **QtGuiDemo.exe**  即可
 
 ## 使用步骤
 
