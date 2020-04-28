@@ -13,8 +13,8 @@
 
 下载权重文件：[yolov4_weight](https://pan.baidu.com/s/16js1bfzKFiQ6mJ7NiP_DtA)  提取码：4mic
 
-- CPU Demo：[yolov4_cpu](https://pan.baidu.com/s/1uacNNl6ZL2M3s0GVfkTdVA)    提取码：l3eh     仅需额外安装opencv
-- GPU Demo：[yolov4_gpu](https://pan.baidu.com/s/1c-clykwyKHGQp2ENnJjFoA)    提取码：d6lz     除了opencv外还需要安装cuda、cudnn
+- CPU Demo：[yolov4_cpu](https://pan.baidu.com/s/1uacNNl6ZL2M3s0GVfkTdVA)    提取码：l3eh     
+- GPU Demo：[yolov4_gpu](https://pan.baidu.com/s/1c-clykwyKHGQp2ENnJjFoA)    提取码：d6lz     
 
 首先将下载的权重文件放置在  **./model**  目录下
 
