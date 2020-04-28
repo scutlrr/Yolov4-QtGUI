@@ -18,7 +18,7 @@
 
 首先将下载的权重文件放置在  **./model**  目录下
 
-然后双击 **./Release**　目录下的 **QtGuiDemo.exe**  即可
+然后双击  **./Release**  目录下的  **QtGuiDemo.exe**  即可
 
 ## 使用步骤
 
@@ -53,7 +53,7 @@
         
          复制到Yolov4-QtGUI\x64\release目录下。 
 
-- 运行项目。点击＂本地window调试器＂运行 or  双击x64\Release目录下的exe文件。
+- 运行项目。双击x64\Release目录下的exe文件即可。
 
 ## 处理流程
 
