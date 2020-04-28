@@ -82,7 +82,7 @@ void QtGuiDemo::initLayout()
 	centralWidget = new QWidget(this);
 	imageLabel = new  QLabel(centralWidget);
 	imageLabel->setScaledContents(true);
-	QSize labelSize(SCREEN_WIDTH-20, SCREEN_HEIGHT-20);
+	QSize labelSize(SCREEN_WIDTH, SCREEN_HEIGHT);
 	imageLabel->setFixedSize(labelSize);
 	this->setCentralWidget(centralWidget);
 	this->resize(SCREEN_WIDTH, SCREEN_HEIGHT);

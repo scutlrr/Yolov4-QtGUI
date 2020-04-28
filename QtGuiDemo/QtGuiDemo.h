@@ -70,9 +70,9 @@ private:
 	cv::Mat inputImage;
 	cv::Mat outputImage;
 
-	std::string  names_file_ = "D:/vs/vs_project/darknet-yolov4/darknet-master/build/darknet/x64/data/coco.names";
-	std::string  cfg_file_ = "D:/vs/vs_project/darknet-yolov4/darknet-master/build/darknet/x64/cfg/yolov4.cfg";
-	std::string  weights_file_ = "D:/vs/vs_project/darknet-yolov4/darknet-master/build/darknet/x64/yolov4.weights";
+	std::string  names_file_ = "../data/coco.names";
+	std::string  cfg_file_ = "../cfg/yolov4.cfg";
+	std::string  weights_file_ = "../model/yolov4.weights";
 
 	std::vector<std::string> obj_names = objects_names_from_file(names_file_);
 	Detector *detector_;
