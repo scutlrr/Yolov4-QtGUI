@@ -20,7 +20,7 @@
 
 然后双击  **./Release**  目录下的  **QtGuiDemo.exe**  即可
 
-## 使用步骤
+## 使用步骤（项目详解请移步博客：[Yolov4-QtGUI](https://blog.csdn.net/weixin_42448226/article/details/105752224)）
 
 - 下载项目：git clone https://github.com/scutlrr/Yolov4-QtGUI.git
 - 将 [3rdparty](https://pan.baidu.com/s/1-60BX9eXrKuUbnqHHyKihw) （提取码：f1vo）放置在项目目录下
